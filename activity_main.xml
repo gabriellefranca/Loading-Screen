@@ -16,7 +16,7 @@
         android:id="@+id/nome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Calculadora"
+        android:text="Loading Screen"
         android:textSize="50dp"
         android:layout_centerHorizontal="true"
         android:textColor="#fff"
